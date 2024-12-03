@@ -78,7 +78,7 @@ h1, h2, h3 {
 
 .nav ul li a {
     display: block;
-    font-family: roboto slab;
+    font-family: "roboto slab" serif;
     font-weight: 400;
     color: #339999;
     font-size: 34px;
