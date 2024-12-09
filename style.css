@@ -237,8 +237,8 @@ h1, h2, h3 {
     display: flex;
     background-color: #339999;
     line-height: 150px;
-    padding-left: 185px;
-    padding-right: -185px;
+    padding-left: 205px;
+    padding-right: -205px;
 }
 
 .footer-text> div{
